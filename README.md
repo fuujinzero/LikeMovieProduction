@@ -8,15 +8,15 @@ If you would like to use this program downlaod the files as a zip, then import t
 
 List of the functional features implemented
 
-+List all movies
-+List all users
-+List all ratings
-+Sort
-+Get top ten movies
-+Recommend a movie
-+Search
-+adduser
-+deleteuser
+*List all movies
+*List all users
+*List all ratings
+*Sort
+*Get top ten movies
+*Recommend a movie
+*Search
+*adduser
+*deleteuser
 
 ## Authors
 * **Skirmantas Zaikauskas**  - [Skirmantas Zaikauskas](https://github.com/fuujinzero)
